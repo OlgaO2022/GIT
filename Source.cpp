@@ -4,9 +4,7 @@
 
 
 int main() {
-
-
-	// Ηΰδΰνθε 3
+	// Γ‡Γ Γ¤Γ Γ­Γ¨Γ¥ 3
 
 	std::ifstream file("Text.txt");
 	if (!file.is_open()) {
